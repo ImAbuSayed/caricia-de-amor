@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricia de amor
+
+This log tracks the cryptographic history and versioning for the song **Caricia de amor** (caricia-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T05:06:52.248631 | `v1` | `ba3def4fc5d17560aaf4e4895d185ff2666d68111a8befc64f608592b65c245c` | `b73267173913d653117466b31d7c7256f4c1f5539b7ff30e33ba383ec6345e41` | `2026-06-24_caricia-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
