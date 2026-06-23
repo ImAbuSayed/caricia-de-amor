@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Caricia de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-amor/) |
+| **Get License** | [Request Licensing for Caricia de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Acércate un poco, mami, ven dímelo
+> Que la noche es nuestra, sintiendo el calor
+> Siente el ritmo lento, caricia de amor
+> Me tienes adicto, perdiendo el control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
